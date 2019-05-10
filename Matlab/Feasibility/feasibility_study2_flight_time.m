@@ -2,6 +2,8 @@
 % article by Collins, Twining and Wells at Planck Aerosystems
 % https://ieeexplore.ieee.org/document/8085014?fbclid=IwAR2H60hFzE6XRrPXwAemlRFwGuxJx47tzeFImufbPNqVmFmh74uMaWm0md0
 
+% The model outputs a graphic representation of one simulation. See examples here https://imgur.com/a/K9rblBs
+
 % UNITS:
 % distance - km Kilometre
 % money - $ USD
